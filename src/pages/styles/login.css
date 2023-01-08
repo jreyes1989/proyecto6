@@ -1,0 +1,59 @@
+.container__login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(235, 235, 235);
+    
+}
+
+.container__imput{
+   margin-left: auto;
+   margin-right: auto;
+    padding: 0.5rem;
+}
+
+.card__login{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(204, 243, 230);
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 220px;
+    
+}
+
+.input__email{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    
+}
+
+.input__password{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 1rem;
+}
+
+.boton_login{
+    padding-top: 1rem;
+    text-align: center;
+}
+
+.login__title{
+    display: flex;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(204, 243, 230);
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    
+}

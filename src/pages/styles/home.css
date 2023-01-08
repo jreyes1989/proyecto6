@@ -1,0 +1,31 @@
+.products-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+
+  .input__buscador{
+    border-radius: 1rem;
+    width: 30%;
+    height: 30px;
+    text-align: center;
+  }
+
+  .container__buscador{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding-top: 2rem;
+  }
+
+  .color__lupa{
+    background-color: #F85555;
+    width: 5%;
+    border-radius: 1rem;
+    color: white;
+  }
+
+  
+  

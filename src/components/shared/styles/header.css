@@ -1,0 +1,26 @@
+.nav_container{
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(204, 243, 230);
+}
+
+.ul_list{
+     display: flex;
+     justify-content: space-between;
+}
+
+.container-list{
+    display: flex;
+   gap: 4rem;
+}
+
+.E-commerce a{
+    font-size: 1.5rem;
+    color:#F85555;
+    font-weight: 600;
+}
+
+
+
+
+
